@@ -1,0 +1,11 @@
+id,title,genres
+m1,The Matrix,"action|sci-fi|cyberpunk"
+m2,Inception,"action|thriller|mind-bending"
+m3,Interstellar,"sci-fi|space|drama"
+m4,The Dark Knight,"action|superhero|drama"
+m5,Spirited Away,"animation|fantasy|adventure"
+m6,Parasite,"thriller|drama|social"
+m7,Toy Story,"animation|family|comedy"
+m8,The Godfather,"crime|drama|classic"
+m9,Whiplash,"drama|music|indie"
+m10,Arrival,"sci-fi|drama|linguistics"

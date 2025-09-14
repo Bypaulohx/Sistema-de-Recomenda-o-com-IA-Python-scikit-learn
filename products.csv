@@ -1,0 +1,11 @@
+id,name,category,tags
+p1,Noise-Cancelling Headphones,Electronics,"audio|headphones|noise-cancelling"
+p2,Mechanical Keyboard,Electronics,"keyboard|mechanical|gaming"
+p3,Stainless Steel Water Bottle,Home,"bottle|eco|reusable"
+p4,Smartwatch,Electronics,"wearable|fitness|notifications"
+p5,Espresso Machine,Kitchen,"coffee|espresso|barista"
+p6,Running Shoes,Sports,"running|shoes|fitness"
+p7,LED Desk Lamp,Home,"lamp|led|workspace"
+p8,4K Monitor,Electronics,"monitor|4k|display"
+p9,Kindle E-reader,Electronics,"ereader|books|portable"
+p10,Air Fryer,Kitchen,"cooking|healthy|fryer"

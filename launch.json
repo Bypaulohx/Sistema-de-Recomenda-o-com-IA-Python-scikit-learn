@@ -1,0 +1,22 @@
+
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Run API (Uvicorn)",
+      "type": "python",
+      "request": "launch",
+      "module": "uvicorn",
+      "args": ["recsys.api:create_app", "--factory", "--host", "0.0.0.0", "--port", "8000", "--reload"],
+      "jinja": true
+    },
+    {
+      "name": "CLI recommend user",
+      "type": "python",
+      "request": "launch",
+      "program": "app.py",
+      "console": "integratedTerminal",
+      "args": ["--domain","movies","--user","u1","--topn","5"]
+    }
+  ]
+}
